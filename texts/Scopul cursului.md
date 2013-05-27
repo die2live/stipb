@@ -1,12 +1,12 @@
 # Scopul Cursului
 
-Acest curs este o initiere �n programare si cuprinde lucruri esentiale, astfel ca:
+Acest curs este o iniţiere în programare şi cuprinde lucruri esenţiale, astfel ca:
 
 * Calcule matematice simple
 * Variabile
 * Expresii
 * Flow control
 * Loops (bucle)
-* Functii
+* Funcţii
 * Lucrul cu textul
 * Modulul "Turtle"

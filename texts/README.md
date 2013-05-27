@@ -1,1 +1,0 @@
-STI Python Programming Book
