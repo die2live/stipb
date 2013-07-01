@@ -2,4 +2,7 @@
 
 ## Limbajul de programare PYTHON ##
 
-## [Cuprins](0._Cuprins.md) ##
+## Cuprins ##
+
+1. [Introducere în curs. Hello Python!](1._Introducere_in_curs.md#lecia-1-introducere-in-curs)
+2. [Capacităţile limbajului în general. Calcule matematice](2._Capacitatile_limbajului.md)
